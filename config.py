@@ -1,2 +1,4 @@
 email = 'equipealemdassombras@gmail.com'
-senha = 'EQUIPEalemdasSombras*24'
+senha = 'hlzh ryjx ovjt bzpn'
+
+'''EQUIPEalemdasSombras*24'''
